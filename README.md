@@ -112,8 +112,8 @@ In this experiment, decryption uses the key that was previously used to encrypt.
 
 ## Credits
 
-Most of the work has been completed thanks to [Alt5chm3rz](https://github.com/satriobintang) (SatrioBintang), Andi, and Rangga. Focus of this project is to 'develop' it.
+Most of the work has been completed thanks to the RSA team (Rangga, Satrio, and Andi). The focus of this project is to 'grow it'.
 
 >Special thanks to @Bachittarjeet for encouraging
 
->I hope this project can be useful for many people. -Alt5chm3rz
+>I hope this project can be useful for many people.
